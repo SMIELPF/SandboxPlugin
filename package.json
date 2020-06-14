@@ -1,0 +1,19 @@
+{
+  "name": "sand-box-plugin",
+  "version": "0.0.0",
+  "description": "a webpack plugin to wrap your code in a sandbox",
+  "main": "./src/sand-box-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMIELPF/SandboxPlugin.git"
+  },
+  "author": "Philip Lau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SMIELPF/SandboxPlugin/issues"
+  },
+  "homepage": "https://github.com/SMIELPF/SandboxPlugin#readme"
+}
